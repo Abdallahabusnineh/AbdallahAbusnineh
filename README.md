@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:00BCD4&height=200&section=header&text=Abdallah%20Abu%20Snineh&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Clean%20Architecture%20%26%20Fintech%20Platforms&descAlignY=55&descSize=16" width="100%"/>
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Abdallah+Abu+Snineh;Flutter+Developer;Clean+Architecture+%26+Fintech+Platforms)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-abu-snineh-74a7bb223/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdallahabusnineh)
@@ -161,7 +161,7 @@ I'm expanding beyond mobile into modern web development:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-> 💡 *My Flutter & Dart background makes the component-based mindset of React feel very natural — just a new syntax for familiar patterns.*
+> 💡 *My Flutter & Dart background makes the component-based mindset of React feel very natural, just a new syntax for familiar patterns.*
 
 ---
 
@@ -181,10 +181,8 @@ I'm expanding beyond mobile into modern web development:
 
 <div align="center">
 
-*"Clean code isn't written in one pass — it's refined, refactored, and respected."*
+*"Clean code isn't written in one pass، it's refined, refactored, and respected."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdallahabusnineh&color=02569B&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,100:02569B&height=100&section=footer" width="100%"/>
