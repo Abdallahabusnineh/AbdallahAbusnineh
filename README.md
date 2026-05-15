@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-abu-snineh-74a7bb223/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdallahabusnineh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://abdallah-abusnineh.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](http://abdallah-abusnineh.com/)
 [![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/flutter_flavor_manager)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abusninehabdallah@gmail.com)
 
