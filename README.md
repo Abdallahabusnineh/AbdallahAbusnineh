@@ -16,7 +16,7 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Flutter Developer based in **Amman, Jordan** 🇯🇴 with hands-on experience delivering production mobile apps across **banking**, **fintech**, **EV charging**, and **SaaS** domains.
+Mobile Software Engineer based in **Amman, Jordan** 🇯🇴 with hands-on experience delivering production mobile apps across **banking**, **fintech**, **EV charging**, and **SaaS** domains.
 
 I don't just write features — I architect systems. I've migrated live banking apps to Clean Architecture, built internal CLI tooling, set up CI/CD pipelines with Fastlane, published open-source packages on pub.dev, and served as the **sole Flutter developer** on a full SaaS product from design to deployment.
 
